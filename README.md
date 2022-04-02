@@ -1,3 +1,5 @@
+<span><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/andy703744@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></span><p></p>
 👋🏻 Hi there! I’m front-end developer using React and Vue.<p></p>
 Sometimes I develop cross-platforms like Flutter.
 I always like to learn new skills for problem solving.💜
